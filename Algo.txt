@@ -3,6 +3,8 @@ Decide capacity.
 Decide self made pizza.
 Decide the toppings.
 Decide add on.
+Decide take out.
+Decide delivery.
 Calculate the total before tax.
 Calculate total.
 Decide pay method.
