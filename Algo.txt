@@ -1,0 +1,8 @@
+Decide location.
+Decide capacity.
+Decide self made pizza.
+Decide the toppings.
+Decide add on.
+Calculate the total before tax.
+Calculate total.
+Decide pay method.
